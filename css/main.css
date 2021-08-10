@@ -1974,7 +1974,6 @@ strong {
 	width: 80%;
 	margin: 0px auto;
 	margin-top: 100px;
-	font-family: 'Poppins', sans-serif;
 }
 
 .slick-slide {
@@ -2116,7 +2115,12 @@ strong {
 	line-height: 30px;
 }
 .slide{
-	top: 3360px;
-	position: relative;
+
+	position: absolute;
 	height: fit-content;
+	position: absolute;
+width: 1353px;
+height: 340.81px;
+left: 59px;
+top: 4004.25px;
 }
